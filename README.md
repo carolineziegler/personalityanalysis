@@ -1,14 +1,18 @@
 # **University Demographics and Personalities Analysis**
 
-This repository contains Python scripts designed to analyze and model demographic and personality data of students at Dublin City University (DCU). The project is structured to clean the data, perform exploratory data analysis, and build predictive models based on the demographics and personality traits collected through surveys.
-Project Overview
+This repository contains Python scripts designed to analyze and model demographic and personality data of students. The project is structured to clean the data, perform exploratory data analysis, and build predictive models based on the demographics and personality traits collected through surveys.
+
+## **Project Overview**
 
 The project involves the following key components:
 
-Data Cleaning: Processing raw survey data to correct anomalies and prepare it for analysis.
-Exploratory Data Analysis (EDA): Analyzing the cleaned data to discover patterns and trends, and visualizing these findings using Python's matplotlib library.
-Predictive Modeling: Using linear regression to predict various outcomes based on demographic and personality data.
-Statistical Testing: Performing t-tests to explore differences in personality traits across different demographic groups.
+**Data Cleaning:** Processing raw survey data to correct anomalies and prepare it for analysis.
+
+**Exploratory Data Analysis (EDA):** Analyzing the cleaned data to discover patterns and trends, and visualizing these findings using Python's matplotlib library.
+
+**Predictive Modeling:** Using linear regression to predict various outcomes based on demographic and personality data.
+
+**Statistical Testing:** Performing t-tests to explore differences in personality traits across different demographic groups.
 
 ## **Getting Started**
 Prerequisites
